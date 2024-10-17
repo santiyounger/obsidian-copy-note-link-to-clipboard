@@ -1,11 +1,10 @@
 {
 	"id": "obsidian-copy-link-to-clipboard",
-	"name": "obsidian-copy-link-to-clipboard",
+	"name": "Copy Note Link to Clipboard",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"description": "With a shortcut, you can quickly copy the current link of a note to your clipboard so that you can easily paste it into another note.",
 	"author": "Santi Younger",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"authorUrl": "https://santiyounger.com",
 	"isDesktopOnly": false
 }
