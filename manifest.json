@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-copy-link-to-clipboard",
+	"name": "obsidian-copy-link-to-clipboard",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"author": "Santi Younger",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
