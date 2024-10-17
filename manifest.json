@@ -1,5 +1,5 @@
 {
-	"id": "obsidian-copy-link-to-clipboard",
+	"id": "obsidian-copy-note-link-to-clipboard",
 	"name": "Copy Note Link to Clipboard",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
